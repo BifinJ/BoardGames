@@ -1,0 +1,149 @@
+# 🧩 Objective of Chess
+
+The objective of chess is to checkmate your opponent's king — placing it under threat of capture with no legal moves to escape. A game can also end in a draw under specific conditions.
+
+---
+
+# ♟️ Chessboard Setup
+
+## Board Orientation
+- Place the board so that each player has a white square in the bottom-right corner.
+
+## Piece Arrangement
+- **Back Rank (1st for white, 8th for black)**: Rook, Knight, Bishop, Queen, King, Bishop, Knight, Rook (from left to right).
+- **Front Rank**: Place all eight pawns.
+- **Color Placement**: White pieces occupy ranks 1 and 2, black pieces occupy ranks 7 and 8.
+
+---
+
+# 🔄 Turn Order
+
+- White moves first.
+- Players alternate turns, one move at a time.
+
+---
+
+# 🏃 Piece Movements
+
+## Pawn
+- Moves forward one square.
+- Can move two squares forward from its starting position.
+- Captures diagonally forward.
+
+## Rook
+- Moves any number of squares horizontally or vertically.
+
+## Knight
+- Moves in an ‘L’ shape: two squares in one direction, then one square perpendicular.
+- Can jump over pieces.
+
+## Bishop
+- Moves diagonally any number of squares.
+
+## Queen
+- Combines rook and bishop moves: any number of squares in any direction.
+
+## King
+- Moves one square in any direction.
+
+---
+
+# 🔐 Special Moves
+
+## Castling
+- A combined move with the king and a rook.
+- Conditions:
+  - Neither piece has moved before.
+  - No pieces between them.
+  - The king is not in, through, or ending in check.
+- The king moves two squares toward the rook, and the rook jumps to the other side.
+
+## En Passant
+- A special pawn capture.
+- Conditions:
+  - An opposing pawn moves two squares from its start, landing beside your pawn.
+  - You may capture it as if it moved only one square.
+  - Must be done on the very next move.
+
+## Pawn Promotion
+- When a pawn reaches the opponent’s back rank:
+  - It is promoted to a queen, rook, bishop, or knight (player’s choice).
+  - Promotion happens regardless of what pieces remain on the board.
+
+---
+
+# ⚠️ Check, Checkmate, and Stalemate
+
+## Check
+- The king is under immediate threat of capture.
+
+## Checkmate
+- The king is in check and cannot escape.
+- The game ends.
+
+## Stalemate
+- A player has no legal moves, but their king is not in check.
+- Results in a draw.
+
+---
+
+# 🤝 Draw Conditions
+
+- **Stalemate**
+- **Threefold Repetition**: The same position occurs three times with the same player to move.
+- **Fifty-Move Rule**: Fifty consecutive moves without pawn moves or captures.
+- **Insufficient Material**: Neither player has enough pieces to checkmate.
+- **Mutual Agreement**: Both players agree to draw.
+
+---
+
+# ⏱️ Time Controls
+
+Time controls are used in competitive play and enforced with chess clocks.
+
+## Formats
+- **Classical**: 60 minutes or more per player.
+- **Rapid**: 10 to 60 minutes per player.
+- **Blitz**: 3 to 10 minutes per player.
+- **Bullet**: Less than 3 minutes per player.
+
+## Increments
+- Additional time may be added after each move (e.g., +2 seconds).
+
+---
+
+# ✍️ Chess Notation
+
+Algebraic notation is used to record moves.
+
+## Coordinates
+- Files (columns): a to h (left to right from White’s perspective).
+- Ranks (rows): 1 to 8 (bottom to top from White’s perspective).
+
+## Piece Abbreviations
+- K: King
+- Q: Queen
+- R: Rook
+- B: Bishop
+- N: Knight
+- Pawns: no letter (just the square, e.g., e4)
+
+## Move Examples
+- e4 → Pawn to e4
+- Nf3 → Knight to f3
+- Bb5 → Bishop to b5
+
+## Captures
+- Bxe5 → Bishop captures on e5
+- exd6 → Pawn captures on d6
+
+## Castling
+- O-O → Kingside
+- O-O-O → Queenside
+
+## En Passant
+- Notated like a capture, optionally with "e.p." (e.g., exd6 e.p.)
+
+## Check and Checkmate
+- Qh5+ → Queen gives check on h5
+- Qh5# → Queen gives checkmate on h5

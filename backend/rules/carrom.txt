@@ -1,0 +1,120 @@
+# 🎯 Objective of Carrom
+
+The aim of Carrom is to pocket all of your assigned pieces (black or white) and the queen before your opponent. The first player to do so while following the rules wins the game.
+
+---
+
+# 🎲 Equipment & Setup
+
+## Carrom Board
+- A square wooden board with pockets in each corner.
+- The playing area has circles and arrows for proper alignment.
+
+## Pieces
+- **Total coins**: 19
+  - 9 white
+  - 9 black
+  - 1 red (the queen)
+
+## Striker
+- A heavier disc used to hit the coins.
+- Only the striker may be flicked by the player.
+
+## Arrangement
+- Coins are arranged in the center circle in a compact formation:
+  - Queen in the center
+  - Alternating black and white coins around it
+
+---
+
+# 🎮 Turn Order & Playing
+
+## First Turn
+- Players decide who breaks first (coin toss or mutual agreement).
+- The player breaking uses the striker to try and pocket coins.
+
+## Turn Progression
+- A player continues to play as long as they keep pocketing their assigned coins.
+- Once they fail to pocket a coin or commit a foul, the turn passes to the opponent.
+
+## Striking Rules
+- Striker must be placed within the baseline area.
+- Must be flicked with a single finger.
+- Should not touch outside the baseline before striking.
+
+---
+
+# 👑 The Queen
+
+## How to Cover
+- The queen must be pocketed and then followed by a successful pocket of one of the player's coins (covering it) in the same or next turn.
+
+## Failing to Cover
+- If the player fails to cover the queen:
+  - The queen is returned to the center.
+  - The player's turn ends.
+
+## Winning with Queen
+- To win, the queen must be pocketed and covered, and then all assigned coins must be pocketed.
+
+---
+
+# ⚠️ Fouls
+
+## Common Fouls
+- Pocketing the striker.
+- Pocketing the opponent’s coins.
+- Touching coins with hands or moving them illegally.
+- Failing to cover the queen properly.
+- Taking two consecutive turns (without valid reason).
+- Double striking (hitting striker multiple times in one turn).
+
+## Penalty for Fouls
+- 1 coin returned to the board (if already pocketed).
+- The turn ends immediately.
+
+---
+
+# 🏁 Winning the Game
+
+## Game End
+- A player wins when they:
+  - Pocket all their assigned coins.
+  - Have legally pocketed and covered the queen.
+
+## Scoring (Optional)
+- Each of the opponent’s remaining coins counts as 1 point.
+- The queen is worth 3 points if properly covered.
+- First player to reach 25 points or win 8 boards wins the match.
+
+---
+
+# 📏 Other Rules & Tips
+
+## Re-arranging Coins
+- If coins go out of the board due to a foul, they are placed at the center circle.
+
+## Rebounds
+- Using the board edges for rebounds is allowed and strategic.
+
+## Double Due
+- If a player pockets the queen and their last coin in the same turn without covering, they lose the board, and the opponent gets points.
+
+---
+
+# 🕒 Time Limit (Optional)
+
+- Casual games may have no limit.
+- In tournaments:
+  - Each turn may have a fixed time (e.g., 10-30 seconds).
+  - Delay can result in a foul or point penalty.
+
+---
+
+# ✍️ Carrom Terminology
+
+- **Striker**: The disc used to hit coins.
+- **Covering the Queen**: Pocketing a regular coin after the queen.
+- **Foul**: Illegal move that results in penalties.
+- **Board**: One full round of play.
+

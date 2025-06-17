@@ -1,0 +1,153 @@
+# ⚽ Game Objective
+
+The objective of football is to score more goals than the opposing team by driving the ball into their net using any part of the body except hands and arms (goalkeepers are the exception).
+
+---
+
+# 🏟️ Field & Equipment
+
+## Field Dimensions
+- Rectangular grass or turf field
+- Standard size: 100-110 meters (length) × 64-75 meters (width)
+
+## Goalposts
+- Located at the center of each end line
+- 7.32 meters wide and 2.44 meters tall
+
+## The Ball
+- Spherical, size 5 for professional play
+
+## Players
+- 11 players per team (including the goalkeeper)
+- Minimum 7 players to continue a match
+
+---
+
+# 🔁 Duration & Match Structure
+
+## Match Time
+- 90 minutes divided into two halves of 45 minutes
+- 15-minute halftime break
+
+## Additional Time
+- **Stoppage Time**: Added at the end of each half to compensate for delays
+- **Extra Time**: Two 15-minute halves if the match is tied in knockout stages
+- **Penalty Shootout**: Decides winner if still tied after extra time
+
+---
+
+# 🎮 Starting & Restarting Play
+
+## Kick-off
+- Begins the game and restarts play after goals
+- Ball must move forward and can be touched only once by the taker
+
+## Throw-in
+- Awarded when the ball crosses the sideline
+- Taken with both hands over the head, with both feet on the ground
+
+## Goal Kick
+- Taken by defending team when the ball crosses their goal line (not resulting in a goal), last touched by opponent
+
+## Corner Kick
+- Taken by attacking team when the ball crosses defending goal line (not a goal), last touched by defender
+
+---
+
+# 🏃‍♂️ Basic Rules of Play
+
+## Offside
+- A player is offside if:
+  - They are nearer to the opponent's goal than both the ball and the second-last defender
+  - At the moment the ball is played to them
+- Exceptions:
+  - Player is in their own half
+  - Receiving ball directly from goal kick, throw-in, or corner
+
+## Fouls
+- Includes tripping, pushing, handball, dangerous play, or dissent
+- Results in a free kick or penalty kick
+
+## Free Kicks
+- **Direct**: Can score directly
+- **Indirect**: Ball must touch another player before a goal
+
+## Penalty Kicks
+- Awarded for fouls inside the penalty area
+- Taken from the penalty spot, 12 yards from goal
+
+---
+
+# 🧤 Goalkeeping Rules
+
+- Goalkeepers can use hands only inside their own penalty box
+- Cannot handle the ball from a teammate’s deliberate back-pass using feet
+- Must release the ball within 6 seconds of possession
+
+---
+
+# 🟥 Disciplinary Actions
+
+## Yellow Card (Caution)
+- For reckless behavior, persistent fouling, time-wasting, etc.
+
+## Red Card (Ejection)
+- For violent conduct, serious foul play, denying goal by handball or foul, or two yellow cards in one match
+- Team must continue with one fewer player
+
+---
+
+# 🥅 Scoring & Winning
+
+- A goal is scored when the entire ball crosses the goal line between the posts and beneath the crossbar
+- The team with the most goals at the end of the match wins
+- Draws may lead to extra time or penalties in knockouts
+
+---
+
+# 📏 Referees & Officials
+
+## Main Referee
+- Enforces rules and makes final decisions
+
+## Assistant Referees (Linesmen)
+- Monitor offside, fouls, and out-of-play calls
+
+## Fourth Official
+- Manages substitutions, added time, and technical areas
+
+## VAR (Video Assistant Referee)
+- Assists with goal decisions, penalties, red cards, and mistaken identity
+
+---
+
+# 🔁 Substitutions
+
+- Standard: 5 substitutions allowed per team in official matches
+- Additional sub allowed in extra time
+- Substituted players cannot re-enter
+
+---
+
+# 🕹️ Formats & Variations
+
+## Futsal
+- Indoor version with 5 players per team and smaller goals
+
+## 7-a-side / 9-a-side
+- Smaller teams for youth or amateur play
+
+## Penalty Shootout
+- Used to determine the winner in knockout matches
+- Usually 5 shots per team, sudden death if tied
+
+---
+
+# 🧠 Football Terminology
+
+- **Pitch**: The playing field
+- **Nutmeg**: Passing the ball between opponent’s legs
+- **Clean Sheet**: No goals conceded by a team
+- **Brace**: Two goals by one player
+- **Hat-trick**: Three goals by one player
+
