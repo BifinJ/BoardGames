@@ -5,3 +5,4 @@ protobuf==6.31.1
 python-dotenv==1.1.0
 scikit_learn==1.7.0
 sentence_transformers==4.1.0
+gunicorn==23.0.0
